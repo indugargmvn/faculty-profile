@@ -1,7 +1,9 @@
-# faculty-profile
-
-
-
+# Faculty-Profile
+## Ms. Indu Garg
+### School of Business Management & Commerce
+**Designation**- Assistant Professor
+![my_picture]()
+![My_CV]()
 
 Career Objective</span>_**
 

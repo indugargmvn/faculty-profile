@@ -3,7 +3,7 @@
 ### School of Business Management & Commerce
 **Designation**- Assistant Professor
 ![my_picture]()
-![My_CV]()
+![My_CV](https://github.com/indugargmvn/faculty-profile/blob/main/CV/CV__indu.docx)
 
 Career Objective</span>_**
 
